@@ -27,5 +27,7 @@ class Program
         
         bool isSunny  = true;
         Console.WriteLine("is it sunny? {0}", !isSunny);
+
+        Console.ReadKey();
     }
 }
