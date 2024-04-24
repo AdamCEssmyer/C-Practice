@@ -1,0 +1,5 @@
+C:\Users\theco\OneDrive\Documents\CsharpProjects\obj\Debug\net7.0\CsharpProjects.csproj.AssemblyReference.cache
+C:\Users\theco\OneDrive\Documents\CsharpProjects\obj\Debug\net7.0\CsharpProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theco\OneDrive\Documents\CsharpProjects\obj\Debug\net7.0\CsharpProjects.AssemblyInfoInputs.cache
+C:\Users\theco\OneDrive\Documents\CsharpProjects\obj\Debug\net7.0\CsharpProjects.AssemblyInfo.cs
+C:\Users\theco\OneDrive\Documents\CsharpProjects\obj\Debug\net7.0\CsharpProjects.csproj.CoreCompileInputs.cache
